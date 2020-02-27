@@ -4,9 +4,32 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background: #ddd;
+    background: rgba(188, 202, 214, 0.933);
 }
 
 th a:link, th a:visited, th a:hover, th a:active {
     color: #ffffff;
+}
+
+.jumbotron {
+    background: #343a40;
+    color: #fff;
+}
+
+.temp-text {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.btn {
+    margin-top: 58px;
+    margin-bottom: 30px;
+}
+
+.lead {
+    text-align: center;
+}
+
+.display-3 {
+    text-align: center;
 }

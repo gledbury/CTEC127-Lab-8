@@ -12,7 +12,9 @@
 require "includes/functions.inc.php";
 require "includes/logic.inc.php";
 require "includes/nav.inc.php";
+require "includes/jumbotron.inc.php";
 require "includes/form.inc.php";
+require "includes/content.inc.php"
 ?>
 
 <body>
