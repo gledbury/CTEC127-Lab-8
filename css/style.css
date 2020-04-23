@@ -13,7 +13,7 @@ th a:link, th a:visited, th a:hover, th a:active {
 }
 
 .jumbotron {
-    background: #343a40;
+    background: white;
     color: #fff;
     background-image: url(../cold.png);
     background-size: cover;
